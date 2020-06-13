@@ -3,12 +3,12 @@
 }
 
 .leadTxt {
+  color: #fff;
+  background-color: #fff;
+}
+
+.leadTxt:hover {
   position: absolute;
-  top: 25%;
-  left: 25%;
-  background: #000;
-  width: 100px;
-  height: 100px;
 }
 
 border:none

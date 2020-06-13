@@ -5,13 +5,12 @@
 }
 
 .leadTxt {
-  position: absolute;
-  top: 25%;
-  left: 25%;
-  background: #000;
-  width: 100px;
-  height: 100px;
+  color: #fff;
+  background-color: #fff;
 
+  &:hover {
+    position: absolute;
+  }
 
 border:none
 
