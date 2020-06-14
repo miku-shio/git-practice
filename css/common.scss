@@ -7,12 +7,13 @@
 .leadTxt {
   color: #fff;
   background-color: #fff;
-
-  &:hover {
-    position: absolute;
-  }
-
 border:none
 
 
+}
+
+.leadTxt__top {
+  position: fixed;
+  right: 0;
+  bottom: 100%;
 }
